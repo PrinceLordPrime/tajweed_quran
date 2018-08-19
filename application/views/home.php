@@ -52,7 +52,10 @@
     <div class="inner">
         <header class="special">
             <h2 class="logo_color">Our Courses</h2>
-            <p>MashAllah we had different courses to study and learn all about QURAN. We also offers Hafiz and Hafiza's for better understanding to female students</p>
+            <p>Dear brothers and sisters in Islam, our present life is a test period to judge who obeys Quran and
+                Sunnah and who does not. It is, therefore, necessary to know the Holy book of Quran and Sunnah of
+                the Holy Prophet Muhammad ﷺ in order to seek success in life here after which is permanent and
+                forever. We offer following courses in the light of The glorius <span class="logo_color">QURAN:</span></p>
         </header>
         <div class="highlights">
             <section>
@@ -105,9 +108,6 @@
     <div class="inner">
         <header class="special">
             <h2>The Right Path</h2>
-            <div class="white">
-
-            </div>
         </header>
     </div>
 </section>
@@ -143,20 +143,21 @@
             <section>
                 <h4 >CONTACT US</h4>
                 <ul class="alt">
-<!--                    <li ><div class="logo_color">Director and CEO</div>-->
-<!--                        <div ><a href="#">Muhammad Shahab Ul Hassan</a></div></li>-->
-<!--                    <li><div>Co-Director</div><a href="#">Hafiz Muhammad Amir</a></li>-->
-<!--                    <li><div>Co-Director</div><a href="#">Muhammad Zeeshan Afzal</a></li>-->
-<!--                    <li><div>Co-Director</div><a href="#">Uzair Ahmed Khan</a></li>-->
+                    <li ><div class="logo_color">Director and CEO</div>
+                        <div ><a href="#">Muhammad Shahab Ul Hassan</a></div></li>
+                    <li><a href="#">Hafiz Muhammad Amir</a></li>
+                    <li><a href="#">Muhammad Zeeshan Afzal</a></li>
+                    <li><a href="#">Uzair Ahmed Khan</a></li>
+                    <li><a href="#">Muhammad Shafi</a></li>
                 </ul>
             </section>
             <section>
                 <h4 >Find Us </h4>
                 <ul class="plain">
-                    <li><a href="#"><i class="icon fa-twitter">&nbsp;</i>Twitter</a></li>
-                    <li><a href="#"><i class="icon fa-facebook">&nbsp;</i>Facebook</a></li>
-                    <li><a href="#"><i class="icon fa-instagram">&nbsp;</i>Instagram</a></li>
-                    <li><a href="#"><i class="icon fa-github">&nbsp;</i>Github</a></li>
+<!--                    <li><a target="_blank" href="#"><i class="icon fa-twitter">&nbsp;</i>Twitter</a></li>-->
+<!--                    <li><a target="_blank" href="#"><i class="icon fa-facebook">&nbsp;</i>Facebook</a></li>-->
+<!--                    <li><a target="_blank" href="#"><i class="icon fa-instagram">&nbsp;</i>Instagram</a></li>-->
+                    <li><a target="_blank" href="https://github.com/PrinceLordPrime/tajweed_quran"><i class="icon fa-github">&nbsp;</i>Github</a></li>
                 </ul>
             </section>
         </div>
