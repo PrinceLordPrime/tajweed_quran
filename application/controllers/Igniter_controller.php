@@ -18,6 +18,7 @@ class Igniter_controller extends CI_Controller{
     }
 
     public function ignite(){
+
         //return $this->load->view('coming_soon.php');
         return $this->load->view('home.php');
     }
@@ -27,8 +28,10 @@ class Igniter_controller extends CI_Controller{
     }
 
     public function devtest(){
-        echo 'Dev Testing';
-        $this->main_model->test_model();
+        //echo 'Dev Testing';
+        //$this->main_model->test_model();
+        return $this->load->view('login.php');
+
     }
 
 
