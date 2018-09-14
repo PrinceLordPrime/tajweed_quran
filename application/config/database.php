@@ -79,10 +79,10 @@ if(Environment == 'Live') {
 
     $db['default'] = array(
         'dsn'	=> '',
-        'hostname' => 'hostname',
-        'username' => 'username',
-        'password' => 'password',
-        'database' => 'database',
+        'hostname' => 'localhost',
+        'username' => 'root',
+        'password' => '',
+        'database' => 'tajweed_quran_master_db',
         'dbdriver' => 'mysql',
         'dbprefix' => '',
         'pconnect' => FALSE,
@@ -104,6 +104,28 @@ if(Environment == 'Live') {
 } else {
 
 // FOR LOCAL HOST
+
+    $db['default'] = array(
+        'dsn'	=> '',
+        'hostname' => 'localhost',
+        'username' => 'root',
+        'password' => '',
+        'database' => 'tajweed_quran_master_db',
+        'dbdriver' => 'mysqli',
+        'dbprefix' => '',
+        'pconnect' => FALSE,
+        'db_debug' => (ENVIRONMENT !== 'production'),
+        'cache_on' => FALSE,
+        'cachedir' => '',
+        'char_set' => 'utf8',
+        'dbcollat' => 'utf8_general_ci',
+        'swap_pre' => '',
+        'encrypt' => FALSE,
+        'compress' => FALSE,
+        'stricton' => FALSE,
+        'failover' => array(),
+        'save_queries' => TRUE
+    );
 
 
 

@@ -27,13 +27,12 @@
 
         <nav id="menu">
             <ul class="links">
-                <li class="logo_color"><a href="#">Registeration</a></li>
+                <li class="logo_color"><a href="">Registration</a></li>
                 <li class="logo_color"><a href="#">Log in</a></li>
-                <li><a href="#">Daily Magzines</a></li>
+                <li><a href="#">Daily Magazines</a></li>
                 <li><a href="#">Courses</a></li>
-                <li><a href="#">Course Fees</a></li>
-                <li><a href="#">Gallery</a></li>
                 <li><a href="#">Career with Us</a></li>
+                <li><a href="#">Contact Us</a></li>
             </ul>
         </nav>
 

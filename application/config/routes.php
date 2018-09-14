@@ -53,6 +53,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['main'] = 'Igniter_controller/ignite'; // THE MAIN CRONE
 $route['default_controller'] = 'Igniter_controller/ignite'; /// THE DEFAULT CONTROLLER WHICH IS ALWAYS REFFERED BACK TO MAIN CRONE
 $route['error'] = 'Igniter_controller/error';
+$route['page/(:any)'] = 'Igniter_controller/page/$1';
 
 //$route['devtest/(:any)'] = 'Igniter_controller/devtest/$1';
 

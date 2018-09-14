@@ -20,6 +20,10 @@
 	color: rgb(0, 142, 176);
 }
 
+.au-btn--blue {
+	background: rgb(0, 142, 176);
+}
+
 .plp_cards{
 	background: rgb(0, 142, 176);
 	color: white;
@@ -53,4 +57,8 @@ blockquote{
 .blue footer{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: white;
+}
+
+.mg_lft_auto {
+	margin-left: auto;
 }
